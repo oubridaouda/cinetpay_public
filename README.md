@@ -4,12 +4,13 @@
 
   - [@Barkalab](https://www.barkalab.com/) entreprise 
   - [@Prospersedgo](https://github.com/Prosper226/) développeur
+  - [@CinetPay](https://cinetpay.com/) Integrateur
 
 
 ## Notes:
     En production, 
         -   Le fichier de configurations est renommé en .config.json
-        -   Plusieurs business peuvent etre configurés, suffit de dupliqué
+        -   Plusieurs business peuvent être configurés. Il suffit de dupliqué
             l'ensemble de la collection contenu du premier business et renseigner les champs
             clés de configuration pour le nouveau business.
 
