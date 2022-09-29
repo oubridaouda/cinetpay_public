@@ -1,0 +1,52 @@
+{
+    "Nom_de_votre_business" : {
+        "Api"   :   {
+            "apikey"     :   "votre api key cinetpay",
+            "site_id"    :   "votre site id cinetpay",
+            "secret_key" :   "votre secret key cinetpay",
+            "apiPassword":   "votre password configuré pour les transferts cinetpay"
+        },
+        "endpoint" : {
+            "notify_url" : "lien http où vous souhaitez recevoir les callback de cinetpay",
+            "return_url" : "lien de page html où vous souhaitez que votre client soit redirigé après paiement"
+        },
+        "isoCountry" : {
+            "SN" : { 
+                "iso"    :  "SN",
+                "prefix" :  221
+            },
+            "ML" : {
+                "iso"    :  "ML",
+                "prefix" :  223
+            },
+            "GN" : {
+                "iso"    :  "GN",
+                "prefix" :  224
+            },
+            "CI" : {
+                "iso"    :  "CI",
+                "prefix" :  225
+            },
+            "BFA" : {
+                "iso"    :  "BF",
+                "prefix" :  226
+            },
+            "TG" : {
+                "iso"    :  "TG",
+                "prefix" :  228
+            },
+            "BN" : {
+                "iso"    :  "BJ",
+                "prefix" :  229
+            }, 
+            "CM" : {
+                "iso"    :  "CM",
+                "prefix" :  237
+            },
+            "RDC" : {
+                "iso"    :  "CD",
+                "prefix" :  243
+            }
+        }
+    }
+}

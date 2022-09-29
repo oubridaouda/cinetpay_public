@@ -1,0 +1,17 @@
+{
+    "name": "user/cinte-pay-php",
+    "autoload": {
+        "psr-4": {
+            "CinetPay\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Prosper226",
+            "email": "psedgo@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    }
+}
